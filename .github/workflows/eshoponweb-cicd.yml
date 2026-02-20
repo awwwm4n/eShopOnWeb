@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: ed052e3a-62f9-4965-9a19-2704920efec8
-  WEBAPP-NAME: devops-bapp-westeurope-59309969
+  WEBAPP-NAME: devops-webapp-westeurope-59309969
 
 jobs:
   #Build, test and publish .net web project in repository
